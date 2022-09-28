@@ -1,0 +1,41 @@
+-----------------------------------------------------------------------------------------------------------------------
+lógica - logos (linguagem racional)
+algoritimo -> sequencia de ações por fim de realizar um objetivo
+-----------------------------------------------------------------------------------------------------------------------
+Computadores deram um 'boom' durante a segunda guerra mundial, por necessidade de mensagens codificadas
+
+Jon von neumann
+- Húngaro
+- deveria operar com aritmética binaria
+- maquina de von neumann
+    - CPU
+        - Memória
+        - Unidade de controle
+        - Unidade de lógica e aritmética (Contém dispositivos de entrada e saida)
+        - barramento de interconexão
+-----------------------------------------------------------------------------------------------------------------------
+Bit
+{
+    8 bits -> 1 kb
+    1024kb -> 1 mb
+    1024mb -> 1 gb
+    1024gb -> 1 tb
+    1024tb -> 1 pb
+}
+-----------------------------------------------------------------------------------------------------------------------
+Altair 8800
+- Maquina de programação de bit por bit
+- linguagem binaria
+-----------------------------------------------------------------------------------------------------------------------
+Compilador
+- converte a linguagem de programação para linguagem de maquina(executavel)
+-----------------------------------------------------------------------------------------------------------------------
+Python foundation
+- ano a ano para melhorar a linguagem
+
+Python
+- multiplataforma
+- Guido Van Rossum
+- Criado em 1982
+- Linux, macOS, raspberry pi
+-----------------------------------------------------------------------------------------------------------------------

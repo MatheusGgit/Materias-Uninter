@@ -1,0 +1,47 @@
+-----------------------------------------------------------------------------------------------------------------------
+Etapas para solucionar problemas com SI:
+    Indetificação do problema
+    proposta de solução
+    Avaliação das propostas e escolha de solução
+    Implantação
+-----------------------------------------------------------------------------------------------------------------------
+Componentes de infraestrutura de TI
+    Hardware: precisam de softwares
+    Software: precisam de determinados hardwares
+    Gerenciamento de dados: (coleta, armazenagem, segurança)
+    Redes: Implementa a relação entre dados
+    Serviços: Implementações, como quando e onde são implementados em alguma organização
+-----------------------------------------------------------------------------------------------------------------------
+Componentes de um SPT
+    Entrada de dados
+    Processamento
+    Armazenamento
+    Documento e relatorios
+
+    Como funciona(EX: folha de pagamento): Entram os dados dos empregados(nome, endereço, salario), apos isso é armazenado
+    no banco de dados, vai para o sistema de folha de pagamento que é distribuido para determinadas atividades
+-----------------------------------------------------------------------------------------------------------------------
+Estrutura genérica de um SIG:
+
+    Entram com os dados da operação, é armazenado no banco de dados, onde é gerado relatorios e disponibilizados
+    por alguma plataforma
+-----------------------------------------------------------------------------------------------------------------------
+Ciclo de vida do desenvolvimento de sistemas:
+________
+|      |
+|      V
+|   Levantamento de necessidades
+|   Análise de alterntivas
+|   Projeto
+|   Desenvolvimento
+|   Implementação
+|   Manutenção
+|       |
+|       V
+|________
+
+-----------------------------------------------------------------------------------------------------------------------
+Freeware: software gratuito
+Shareware: demo de algum software
+Licença proprietaria: Uma chave para liberar acesso a algum software
+Groupware: software que permite um grupo para compartilhar informações coletadas por varias pessoas

@@ -1,0 +1,49 @@
+SISTEMAS ERP (PACOTE DE SOFTWARES)
+Ex: pacote office
+
+-   Geralmente ultilizam um banco de dados(corporativo) que faz o ligamento entre todas as estruturas de uma organização
+-   Algumas coisas podem ser alteradas e customizadas, porém sempre dentro do que o sistema foi designado
+------------------------------------------------------------------------------------------------------------------------
+SISTEMAS SCM (SUPPLY CHAIN MANAGEMENT)
+
+IMAGEM: https://prnt.sc/BuRUtG5Hu-6V
+
+Pensando em uma estrutura de vendas:
+
+Produto X é produzido por uma empresa, pensando no consumidor e ele vai prover o fluxo de informação nescessaria para
+que este produto continue sendo vendido.
+
+Este fluxo de informação é nescessario para fazer um estudo para ver porque um produto não foi vendido, ou pq n esta vendendo
+mais e.t.c. Estas informações são fornecidas pelo cliente, onde depois de T0DO este processo, volta para ele
+------------------------------------------------------------------------------------------------------------------------
+Sistemas CRM (Customer Relationship Management)
+
+Comunicação de empresa com cliente.
+
+Pode-se ter como exemplo, ligações de funcionarios de uma empresa perguntando por feedbacks. Com esses feedbacks
+sera realizado otimizações do produto
+------------------------------------------------------------------------------------------------------------------------
+SGC (Sistema de Gestão do Conhecimento)
+
+Estágios:
+-   Descoberta do problema
+-   Descoberta da solução
+-   Escolha de soluções
+-   Teste de solução(implementação)
+
+Tipos, detalhes:
+-   BI (Business Inteligence)
+    .Possibilita que os executivos identifiquem situações de decisão e oportunidades de negócio
+    .Data WareHouse:
+        São grandes armazens de dados provenientes de sistemas ERPs
+        Possuem muitas informações
+
+    .Data Mining
+        Pode ser definida como processo de transformação de dados desconhecidos de um data warehouse
+
+    .Ferramentas Olap
+        Online analytical processing
+        Tecnologia que permite extrair dados de um data mining de uma forma customizada e mais simples, resultando em
+        informações mais faceis de serem entendidas
+
+------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+-----------------------------------------------------------------------------------------------------------------------
+1. Quais são as entradas, os processamentos e as saídas no sistema de
+rastreamento de pacotes da UPS?
+
+R: As entradas são feitas a partir do momento em que o cliente assina como pacote recebido, a partir dai as informações
+do cliente e do pacote são armazenadas em um banco de dados da empresa por meio da internet, e em menos de 60 segundos
+essas informações são disponibilizadas no site ou no aplicativo da empresa.
+-----------------------------------------------------------------------------------------------------------------------
+2. Quais tecnologias são utilizadas pela UPS? Como Essas tecnologias estão
+relacionadas à estratégia de negócios da empresa?
+
+R: A ups disbonibiliza de um site e um aplicativo para compartilhamento de informações para o usuario, além disso também
+possui sistemas de calculo de rota, em que se é mostrado a rota mais efetiva para entregar todos os pacotes considerando
+paradas, condições climaticas e transito para otimizar o gasto de gasolina nos veiculos.
+-----------------------------------------------------------------------------------------------------------------------
+3. Quais objetivos organizacionais estratégicos são visados pelos sistemas de
+informação da UPS?
+
+R: A ups oferece um sistema de calculo de rotas para pacotes maiores ou criticos a outras empresas ou organizações, além
+de manter seus gastos a fim de garantir "o melhor serviço pelo menor preço" usado como logo da empresa.
+-----------------------------------------------------------------------------------------------------------------------
+4. O que aconteceria se os sistemas de informação da UPS se não estivessem
+disponíveis?
+
+R: Basicamente a entrega de produtos não seria possivel, por não poderem ter informações como endereço ou nome do cliente
+em qual cada produto deve ser destinado, também não haveria um historico de entregas ou pendencias, o aplicativo e site
+ficariam indiponiveis e os usuarios não teriam acesso a seus produtos.
+-----------------------------------------------------------------------------------------------------------------------

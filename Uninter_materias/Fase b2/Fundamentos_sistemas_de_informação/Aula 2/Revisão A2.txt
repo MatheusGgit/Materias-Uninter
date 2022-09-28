@@ -1,0 +1,89 @@
+O papel da informação dentro de uma empresa:
+-   Serviço
+-   Conhecimento
+-   Operação
+-   Direção
+
+A partir das informações, a empresa pode produzir novos produtos, aumentar o campo de clientes, se o produto está sendo
+utilizado, se vendeu bem e.t.c (formam a base do nivel decisório, que são usadas em diversas areas funcionais)
+
+Para que estas infomações sejam adquiridas e bem usadas, existe o AMBIENTE DE NEGÓCIOS
+------------------------------------------------------------------------------------------------------------------------
+AMBIENTE DE NEGÓCIOS
+https://prnt.sc/2c8V-zInE2dG <- Print
+------------------------------------------------------------------------------------------------------------------------
+Solucionando problemas com SI
+
+ETAPAS:
+Identificação -> Proposta de solução -> Análise -> Implementação
+
+Identificação: Identifica o problema e as causas
+Proposta de solução: Propostas que podem ou não solucionar o problema
+Análise: Analisa essas propostas e define como viável ou não
+Implementação: Implementa a solução melhor analisada e dita como viável
+------------------------------------------------------------------------------------------------------------------------
+Ifraestrutura de TI
+
+HARDWARE:
+SOFTWARE:
+GERENCIAMENTO DE DADOS:
+REDES:
+SERVIÇOS:
+------------------------------------------------------------------------------------------------------------------------
+Componentes de um SPT:
+
+Entrada de dados ---> Processamento ------> Documentos e relatorios
+                         |     ^
+                         |     |
+                         v     |
+                       Armazenamento
+
+Explicação: Basicamente recebe dados, processa eles e salvam no banco de dados
+
+Exemplo folha de pagamento: https://prnt.sc/YYpCtXbsrXWC
+------------------------------------------------------------------------------------------------------------------------
+Componentes de um SIG
+
+
+                                    SIG
+                       ________________________________
+Dados da operação --> (SPT ---> BD --- MODULO GERENCIAL) --> Relatório gerencial(nível gerencial)
+
+Explicação: Pega as info do SPT e gerencia a empresa por base deles e cria um planejamento mandando o pedido por um relatorio
+------------------------------------------------------------------------------------------------------------------------]
+SAD
+
+Explicação: bem abstrato, porem com base nas informações auxiliam a tomar decisões complexas
+------------------------------------------------------------------------------------------------------------------------
+SAE
+
+Explicação: Gerencia a parte do mercado, economia, se deve ou não investir em novos produtos E.T.C
+------------------------------------------------------------------------------------------------------------------------
+Ciclo de vida de desenvolvimento
+
+-   Levantamento de nescessidades
+
+-   Análise de alternativas(ja existe um software que faz oq preciso, e quanto aos custos?)
+
+-   Projeto (cria-se o projeto, e organiza-se para começar o desenvolvimento
+
+-   Desenvolvimento
+
+-   Implementação (o programa é "lançado")
+
+-   Manuntenção (arruma-se erros e coisas q os desenvolvedores não perceberam)
+------------------------------------------------------------------------------------------------------------------------
+Tipos de software:
+
+-   Pacote
+    Ex: pacote office
+
+-   User-Friendly
+
+-   Open-Source
+
+-   Software livre
+    Software gratuito
+
+-   Shareware
+    Versão demo

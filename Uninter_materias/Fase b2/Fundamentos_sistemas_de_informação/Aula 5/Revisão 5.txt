@@ -1,0 +1,74 @@
+Conceitos sobre negócios eletronicos (e-commerce)
+-   O que são?
+    .De acordo com BELMIRO(2014), qualquer transação que envolva busca, pesquisa, aquisição de algum artigo ou algo
+    caracteriza a participação em comércio eletronico.
+
+-   Começou por volta de  1995
+------------------------------------------------------------------------------------------------------------------------
+E-commerce vs E-Business
+
+E-business:
+"O conceito de negócios eletronico ou e-business refere-se ao uso de tecnologia digital e da internet para executar os
+principais processos de negócios em uma empresa". Laudon e Laudon (2014, p. 54)
+
+E-commerce:
+"É a parte do e-business que lida com a compra e venda de bens e serviços pela internet. Tal conceito abrange as atividades
+que apoiam essas transações, tais como propaganda, marketing, atendimento ao cliente, segurança, entrega e pagamento".
+Laudon e Laudon (2014, p. 52)
+------------------------------------------------------------------------------------------------------------------------
+Modelos de negócios da Internet
+
+-   Loja virtual (e-tailer): Amazon
+-   Corretora de transações: Mercado Livre
+-   Provedor de conteúdo: ITunes Store, Spotify
+-   Provedor de comunidade virtual: Facebook
+-   Portal: Google
+    .O portal é quem da acesso a esses provedores
+
+-   Provedor de serviços: Google apps
+
+Modelos que geram lucros no negócios eletronicos
+
+-   Modelo de receita de Propaganda
+-   Modelo de receita de Vendas
+-   Modelo de receita de Assinatura
+-   Modelo de receita de free/freemium
+-   Modelo de receita de taxa de transação
+-   Modelo de receita de afiliação
+
+Categorias (B2C, C2B, B2B, B2G, G2B, C2G, C2C, G2C, G2G, B2E, E2B):
+    B: Business, empresa, fornecedor
+    C: Consumer, consumidor, cliente
+    E: Employee, empregado
+    G, Government, Governo
+
+    B2C:
+        Business to consumer
+        Ex: fale conosco
+
+    C2B:
+        Consumer to business
+        Ex: ligar/mandar msg para ter alguma informação
+    B2B:
+        Business to business
+        Ex: Parcerias
+    B2G:
+        Business to Government
+        Ex: alguma empresa querendo fornecer ou receber informações
+    G2B:
+        Government to Business
+        Ex: governo querendo algum produto ou informação de alguma empresa
+    C2G:
+        Consumer to Government
+        Ex: consumidor entrando em sites do governo para ter alguma informação
+    C2C:
+        Cosumer to Consumer
+        Ex: mercado livre
+    B2E:
+        Business to employee
+        Ex: empresa fornece desconto para empregados
+-----------------------------------------------------------------------------------------------------------------------
+BIG DATA:
+-   Composto por todas as informações disponiveis na rede
+
+Como se fosse um enorme banco de dados com todas as informações disponiveis na internet

@@ -1,0 +1,34 @@
+-----------------------------------------------------------------------------------------------------------------------
+Sistemas ERP:
+    - São compostos por um pacote com varios software integrados
+-----------------------------------------------------------------------------------------------------------------------
+Sistema SCM:
+    Sistemas de gestão de cadeias de suprimento
+
+    - Dados que fornecem um feedback sobre um produto, assim podemos saber se o produto deve ser re-estruturado ou
+      produzido em maior quantidade
+-----------------------------------------------------------------------------------------------------------------------
+Sistema CRM:
+    Gerencimento do relacionamento com o cliente
+-----------------------------------------------------------------------------------------------------------------------
+Sistema SGC:
+    Sistema de gestão do conhecimento
+        - Descoberta do problema
+            - Qual o problema?
+
+        - Descoberta da solução
+            - Como resolver?
+
+        - Escolha da solução
+            - A solução é viavel?
+
+        - Teste da solução
+            - A solução funcionou?
+-----------------------------------------------------------------------------------------------------------------------
+BI (Business inteligence):
+    - Possibilita que os executivos identifiquem situações de decisção e oportunidades de negócio, pois apresentam o
+      desempenho geral da organização
+    - Data warehouse
+    - Data mining
+    - Olap (Online analytical processing)
+-----------------------------------------------------------------------------------------------------------------------

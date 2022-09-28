@@ -1,0 +1,54 @@
+Fundamentos de Sistemas de Informação
+-----------------------------------------------------------------------------------------------------------------------
+Conjunto de objetivos:
+    objetivo
+    entradas
+    processamento
+    saidas, controles e avaliação
+    retroalimentação/feedback
+-----------------------------------------------------------------------------------------------------------------------
+Elementos:
+    Informações de entrada
+        |
+        v
+    Processamento
+    (
+        Hardware
+        Software
+        Rede de dados
+    )
+        |
+        v
+    Informações de Saída
+-----------------------------------------------------------------------------------------------------------------------
+Dados(passos):
+    Filtragem: seleção de dados
+    Processamento: Totalização, medias, porcentuais
+    Apresentação: Visualização, relatorios
+
+Dados Geram as Informações
+-----------------------------------------------------------------------------------------------------------------------
+Conhecimento:
+    Inteligencia: como e quando aplicar o conhecimento
+    Conhecimento: Inferências produzidas pelas informações
+    Informação: Dados interpretados
+    Dados: Registros estruturados
+-----------------------------------------------------------------------------------------------------------------------
+Principais classificações de sistemas de informação:
+
+    Sistemas de informações empresariais
+                    |
+    ----------------------------------
+    |               |                |
+   SPTs            SIGs             SIs
+                                     |
+                                ------------
+                                |          |
+                               SADs       SAEs
+
+SPTs: Sistemas de processamento de transações(Registro de dados produzidos pela operação)
+SIGs: Sistemas de informações gerenciais(Informações gerenciais, planejamento e gestão da operação)
+SISs: Sistemas de informações estrategicas()
+SADs: Sistemas de apoio e decisão(Apoio as decisões complexas, simluções, modelagem, de problemas)
+SAEs: Sistemas de apoio aos executivos(Visão estratégica dos negócios indicadores críticos de desempenho)
+-----------------------------------------------------------------------------------------------------------------------

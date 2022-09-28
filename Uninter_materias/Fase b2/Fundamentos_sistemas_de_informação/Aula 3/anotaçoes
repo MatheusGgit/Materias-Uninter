@@ -1,0 +1,46 @@
+-----------------------------------------------------------------------------------------------------------------------
+Funções básicas de segurança dos sistemas de informação
+    Discussão
+    Prevensão
+    Detecção
+    Contenção
+    Recuperação
+    Restauração
+-----------------------------------------------------------------------------------------------------------------------
+Ameaças a segurança
+    Integridade
+        Ameaças físicas e ambientais(fogo, inundação, descargas atmosfericas)
+        Erros humanos
+        Fraudes
+        Erro de processamento e violação de sistema
+        Sabotagens fisicas
+
+    Disponibilidade
+        Falhas em sistemas ou nos diversos ambientes computacionais
+        Sabotagens lógicas
+
+    Divulgação da informação
+        Divulgação internacional de informações
+        Divulgação não internacional de informações
+
+    Alterações não autorizadas
+        Alteração intencional
+        Alteração não intencional
+
+Evitar a ocorrencia da ameaça -> plano de segurança
+Identificar ou combater as ameaças -> medidas de segurança
+Minimizar o dano, recompondo a funçao original -> Plano de contingencia
+-----------------------------------------------------------------------------------------------------------------------
+Segurança fisica e ambiental
+    Localização
+    Construção
+    Instalações elétricas
+    Condições Ambientais
+    Prevenção e combate a incendio
+    Controle de acesso
+    Recursos humanos e padrões de trabalho
+-----------------------------------------------------------------------------------------------------------------------
+Segurança lógica
+    Segurança de redes
+    Segurança de sistemas
+    Segurança de usuario

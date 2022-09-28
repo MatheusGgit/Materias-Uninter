@@ -1,0 +1,67 @@
+                Sistemas de informação consiste e uma busca geral de objetivos em que as etapas são:
+-   Objetivo
+-   Entradas
+-   Processamento
+-   Saídas, controles e avaliação
+-   Retroalimentação/feedback
+
+Ex: Sistema de transporte terrestre
+-   Objetivo: Transportar
+-   Entradas: semáfaros, placas, informações sobre velocidade
+-   Saídas: Estão relacionadas a todas as etapas
+-   Feedback: Interações feitas por nós no transito, onde por vezes acontecem varíações q devem ser consideradas pelas
+    autoridades que cuidam do transito
+
+
+Representação de um sistema de informação:
+-   Dados -> Processamento -> Informação
+------------------------------------------------------------------------------------------------------------------------
+                            Elementos de um sistema de informação:
+
+                          __________________________________________
+                          |             Processamento              |
+                          |   ____________                         |
+Informações de entrada ---|-->|          |-------- Hardware        |-----> Informações de Saída
+                          |   | Software |                         |
+                          |   |          |-------- Rede de Dados   |
+                          |   ------------                         |
+                          ------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+Hardware: Todos os componentes fisicos  que compõem um computador
+Software: É a parte lógica de um sistema de informação, criadas a partir de uma linguagem de programação
+Banco de dados: Técnologia de armazenamento de dados, também processa e salva estes dados dentro dos HDs(hardware)
+Rede de computadores: Internet, todos os componentes de hardware e software que se conectam ou se ligam
+------------------------------------------------------------------------------------------------------------------------
+                                                        DADOS
+
+Registros brutos que ainda não passaram por um processamento, estes dados passam a ser informação quando passam por uma
+filtragem, e então para um processamento
+------------------------------------------------------------------------------------------------------------------------
+                                                      INFORMAÇÃO
+
+Depois dos dados passarem pela filtragem e pelo processamento, os dados viram informações, infos são dados que podemos
+traduzir ou entender
+------------------------------------------------------------------------------------------------------------------------
+                                                      CONHECIMENTO
+
+O conhecimento se trata de inferencias produzidas pelas informações
+
+OBS: Inferência é uma dedução feita com base em informações ou um raciocínio que usa dados disponíveis para se chegar a
+uma conclusão. Inferir é deduzir um resultado
+------------------------------------------------------------------------------------------------------------------------
+                                                      INTELIGENCIA
+Saber onde e quando aplicar estas informações
+------------------------------------------------------------------------------------------------------------------------
+                                       Classificações de sistemas de informação
+
+É uma representação as areas funcionais dentro de uma empresa
+Nivel decisório:
+
+-   SPTs: Registram os dados produzidos durante uma operação (Nivel operacional)
+-   SIGs: Organizam as informações e planejamentos de uma operação (Gerencia intermediaria)
+-   SISs:
+    -   SADs: Apoiam a tomada de decisões complexas de uma operação, e apresentam modelagens dentro de um sistema (Gerência sênior)
+    -   SAEs: Gerenciam a parte de negócios e de desempenho de uma empresa (Alta gestão)
+------------------------------------------------------------------------------------------------------------------------
+
