@@ -1,0 +1,131 @@
+------------------------------------------------------------------------------------------------------------------------
+Gramática da lingua portuguesa:
+- Gramática normativa (Forma culta)
+- Gramática descritiva (Fala sobre a grámatica)
+- Gramática histórica
+- Gramática comparativa (Compara as gramáticas formais e informais)
+
+Gramática normativa:
+- Fonologia (Estuda o som)
+- Morfologia (A forma)
+- Sintaxe (Organização)
+- Semântica (Significado das palávras)
+
+Correção na escrita:
+- Complicada, dificil, regras com exceções
+- Dedicação, aprendendo uma regra de cada vez
+- Ler muito, prestar atenção nas construções das frases, exercitar a escrita
+- Somente dessa forma teremos domínio desta ferramenta
+------------------------------------------------------------------------------------------------------------------------
+                                             Lingua na prática
+Discurso direto(Exatamente como foi realizado):
+- Aspas, verbo de elocução, dois pontos, travessão, primeira pessoa do discurso("eu" ou "nós") e troca de parágrafos
+
+Discurso indireto:
+- Reprodução da fala com a intervenção de quem a escreve
+
+Consição, clareza, coesão, e corência:
+- Consição: maior número de informações com o menor numero de palavras
+- Clareza: para que o interlocutor entenda
+- Coesão: conexões lógico-semânticas(palavras ou elementos que liguem o texto)
+- Coerência: lógica, sequência que ofereça sentido geral e coerente
+
+Tipos de coesão("Dentro de um parágrafo a gente não repete palávras"):
+- Referencial: retomadas de conceitos, opniões ou juízos
+    - Elipse: omite um termo (olhar a anotação da aula 1)
+    - Reiteração: repetição de um termo já mencionado
+
+- Sequencial: sequência temporal, espacial ou de assunto por meio de uso de conectivos
+- Lexical: substituição de um vocábulo por outro similar
+------------------------------------------------------------------------------------------------------------------------
+Acentuação e uso do sinal de crase:
+- Proparoxítonas(penúltima sílaba Ex: a propria palavra proparoxítona é uma propraroxítona): todas são acentuadas
+- Paroxítonas: todas menos as terminadas em A, E, O, EM, "s". Atenção aos ditongo
+- Oxítonas: terminadas em A, E, O, EM, "s"
+- Monossílabas: terminadas em A, E, O, "s"
+
+Hiato e ditongo:
+- Éi, ói, éu: somente no final da palavra, seguida ou não de "s"
+    - Ex: Herói, chapéus, céu, dói
+- Hiato: "i" e "u", segunda letra do hiato, sozinhas na sílaba ou com o "s", sem "nh" depois e sem ditongo antes
+    - Ex: Ba-ú, sa-í-da, ra-i-nha- fei-u-ra
+
+Outras regras de acentuação:
+- Plural: ter e vir
+    - Ele tem / Eles têm
+    - Ele vem / Eles vêm
+- Diferencial:
+    - Pôr - verbo
+    - Por - preposição
+- Facultativo
+    - Forma / fôrma
+
+Crase:
+- A: artigo, preposição ou pronome
+- Artigo: uma; preposição: para
+- À = para a, da, na, masculino ao
+- Horas exatas
+- Locuções femininas de modo, tempo ou lugar: à custa de, à porta, à exeção de, à noite, à mão
+- Facultativa: nome e pronome possesivo feminino, depois de até
+
+Colocação pronominal
+- Ênclise: amo-o; encontra-me; entregue-lhe
+- Mesóclise(futuro): amar-te-ei; amá-lo-ia
+- Próclise: ninguem o apoia
+- Atração(EX: eu não o amo): pronomes relativos, indefinidos, demonstrativos, interrogativo, advérbios; exclamação; em + gerúndio
+- Facultativo: caso reto, para, conjunção, coordenativa, locução verbal
+------------------------------------------------------------------------------------------------------------------------
+                                                     Concordância nominal
+Casos especiais
+- Menos: é um advérbio, portanto inváriavel
+     - A aluna é menos distraída que seus colegas
+- Meio e meia: quando se referir a um substantivo, concorda com ele
+    - Comprei meia embalagem de doces (subst.)
+    - Ela estava meio cansada (adj.)
+
+Adjetivo varíavel - advérbio inváriavel
+
+Bastante(Se substituir bastante por muito e der certo vira bastantes, lembrando que a palavra seguinte tem q estar no plural):
+- Bastante's' meninos, bastante bobos
+
+- Muito, pouco, caro, barato, longe, mesmo, próprio, tanto:
+    - Muito's' carros, carros muit'o' caros
+    - Long'es' lugares, mesm'as' estradas
+
+Concordância verbal:
+- Sujeitos formados com os termos a maioria, a maior parte, a metade
+    - A maior parte dos alunos estud'a' ou estud'am'
+Quem: concordar com o pronome ou ficar na terceita pessoa do singular (ele)
+    - Fui eu 'quem' estud'ei' mais para a prova (eu)
+    - Fui eu 'quem' estud'ou' mais para a prova (ele)
+
+Verbos impessoais(Não tem sujeito e é sempre no singular):
+- Haver, existir, chover, ventar, amanhecer
+- Estar e fazer indicando tempo
+- Ser inficando data, hora, distância
+- Terceira pessao do singular (ele)
+     - 'Há' dez pessoas aqui (sentido de existir)
+     - 'Faz' dois anos que eu não saio de casa
+     - 'Choveu' muito ontem
+
+Regência nominal:
+- Termos que pedem determinadas preposição
+- Amor: Amor 'a' vida! Amor 'pelos' livros. Amor 'da' minha filha
+- Ansioso: de, por, para: Ansiosa 'para' aprender. Ansiedade 'por' amigos
+- Carinho: Carinho 'do' amigo. Afável 'com' os animais
+
+- Verbo (termo regente) e seus objetos (termo regido)
+    - Assistir: transitivo direto, 'não exigir preposição' significa "Ajudar"; se existir preposição significa "ver", "olhar"
+    - Assisto 'ao' jogo - Vejo o jogo
+    - Assisto o jogo - dou assistência no jogo
+
+    Ex:
+    - O médico assiste a morte da paciente (Ajudou na morte da paciente)
+    - O médico assiste à morte da paciente (Assitiu à paciente morrer)
+------------------------------------------------------------------------------------------------------------------------
+Redação na Era Digital:
+- Objetividade, correção e clareza textual
+- Informalidade é diferente do pessoal e profissional
+- Existe um horário predeterminado de trabalho (Ter um cuidado com o horário em que é enviado a mensagem)
+- Mesmo utilizando frases mais curtas, mensagens com ícones, ele continua sendo um documento formal
+
