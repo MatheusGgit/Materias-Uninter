@@ -121,7 +121,7 @@ Regência nominal:
 
     Ex:
     - O médico assiste a morte da paciente (Ajudou na morte da paciente)
-    - O médico assiste à morte da paciente (Assitiu à paciente morrer)
+    - O médico assiste à morte da paciente (Viu à paciente morrer)
 ------------------------------------------------------------------------------------------------------------------------
 Redação na Era Digital:
 - Objetividade, correção e clareza textual
