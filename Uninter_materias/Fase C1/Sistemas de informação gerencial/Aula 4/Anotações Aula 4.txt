@@ -1,0 +1,62 @@
+todo:                             Banco de dados VS sistemas de informação gerencial
+
+todo: Banco de dados
+- "Um conjunto integrado de elementos de dados relacionados lógicamente (O'Brien, 2004)"
+- "É uma coleção de dados organizada como num arquivo convencional (Rezende; Abreu, 2000)"
+- Geralemente fichários médicos tem um critério de organização (Alfabética por exemplo), os bancos de dados são da mesma maneira
+
+todo: Ligação BD-sistemas de informação
+
+- A maior parte das operações de SI é de recuperação e manuseio de dados
+- Um banco de dados é o "coração" de um SI
+- Podemos compará-lo a um fichário médico, a uma agenda telefônica ou a um sumário de livro
+- Coleções organizadas de dados
+
+todo: Sistema gerenciador de banco de dados
+- Intermediário entre o SI e o BD
+- BD é "estático"; SGBD é "dinâmico"
+    - Os dados do BD ficam parados, e o SGBD faz um tratamento inicial
+- O SGBD gerência os acessos do SI ao BD
+- Função do SGBD: garantir a integridade dos dados do banco
+
+todo: Funções do SGBD
+- Controle de redundância (Não cadastrar 2 dados iguais ou 2 vezes)
+- Cuidado no compartilhamento de dados
+- Controle de acesso (permissão sobre os dados)
+- Restrição de integridade (os dados devem ser armazenados no formato correto)
+------------------------------------------------------------------------------------------------------------------------
+todo: Tipos de banco de dados
+
+Hierárquico: (Olhar a imagem pra ficar menos confuso)
+- Um dos primeiros tipos
+- Estrutura em árvore: "pai" e "filho"
+- Para chegar a um dado, deve-se navegar pela árvore
+- Para voce achar um dado "filho", deve-se navegar por todos os dados do "Pai"
+
+Rede: (imagem)
+- Derivada do hierárquico, é uma "teia de aranha"
+- Filhos podem ter vários pais
+
+Banco de dados não relacional:
+- Surge em fins dos anos 1990, devido ao grande volume de dados na internet
+- Trabalha com dados em formatos de imagens, sons e outros menos convencionais
+- Estrutura "misturada" de dados, parecida com arquivo de texto
+- O mais conhecido é o NoSql
+------------------------------------------------------------------------------------------------------------------------
+todo: Banco de dados relacional
+- É o mais comum
+- Sql
+- Surgidos nos anos 1980, derivados dos bancos em rede
+- todo: Dados armazenados em tabelas, ligadas por campos-chave
+- Possui campos que referenciam outras tabelas e campos
+- Mais flexíveis, mais faceis de manter
+- Parecidos com uma tabela Excel
+------------------------------------------------------------------------------------------------------------------------
+todo: SQL (structured query language)
+
+- Utilziada pelos SGBD no acesso de dados
+- Criada pela IBM na década de 1970
+- Tornou-se um padrão para os SGBD e SI
+- Estruturada em comandos
+
+
