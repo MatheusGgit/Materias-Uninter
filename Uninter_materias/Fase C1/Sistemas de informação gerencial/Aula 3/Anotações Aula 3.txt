@@ -1,0 +1,83 @@
+todo:                            Tecnologia da informação e comunicação (TIC)
+
+- A internet veio para unir esses 2 aspectos: Tecnologia e comunicação
+    - Ex: Uber, é preciso se comunicar com o motorista para saber como está o andamento da corrida
+- A era da informação é muito baseada na comunicação
+
+todo: Planejamento das TIC:
+- Não são só software e hardware. É sobre como lidar com as informações
+- Os sistemas iniciam-se para nescessidades departamentais, crescem e abrangem toda a empresa e os ambientes externos
+- Hoje, conplexidade é a regra
+
+todo: Planejamento das TIC - elementos
+- Obsolescência programada
+- Atualização permanente
+- Implantação de novos sistemas
+- Treinamento e capacitação
+- Integração Corporativa
+- Prestação de serviços de tecnologia
+- Gestão de projetos
+------------------------------------------------------------------------------------------------------------------------
+todo: Ferramentas de apoio a decisão
+
+As ferramentas de apoio a decisão ajudam a usar as informações que você já possui para fazer a melhor decisão possível
+
+Tecnologia, hoje, é ferramenta de gestão
+- Os sistemas de informação e as tecnologias são essenciais para tomada de decisão
+    - Antigamente não era assim, mas hoje em dia é nescessário
+- Os sistemas passam a ser chamados de Sistemas de informação gerenciais
+- Antes, as decisões eram tomadas em base de relatórios
+    - Relatórios muitas vezes não tem muitas informações aprofundadas que podem ser inportantes
+- Hoje se tem nescessiade de ferramentas mais complexas
+
+todo: Ferramentas para decisão complexas
+- Anos 1980/1990 SAD - sistemas de apoio a decisão (decision support system)
+- Usam calculos numéricos, estatisticas, simulações, com modelagem de problemas
+- Exemplos: simulação de investimentos, planejamento de rotas de transporte, otimização de linhas de fabricação
+
+SAD vs SAE:
+SAD: mais voltado para o ambiente interno
+SAE: voltado para ambiente externo - BI (business inteligence)
+    - Com relação em clientes, auxilia a alta gestão da empresa, relação de mercado(Ganhará mercado ou vai perder?)
+------------------------------------------------------------------------------------------------------------------------
+todo: Hierarquia e organização do sistema de informação
+
+SI não é apenas a tecnologia
+
+- Possuem outras dimensões
+- É um tripé: formado pela tecnologia, pessoas e organização(Empresa)
+
+Organização: Os SIs devem reproduzir os processos da organização
+Pessoas: Devem ter habilidade para manusear os SIs, a fim de entender as informções e tomar decisões
+Tecnologia: Formada pelos softwares, redes de dados, hardwares e TIC pessoais
+------------------------------------------------------------------------------------------------------------------------
+todo: Gerenciamento das informações
+
+Gerenciar para o bem da organização
+
+- Informações são o maior ativo hoje em dia
+- Ativos devem ser gerenciados
+- Ativos devem ter política de uso e de segurança
+- Informação = capital intelectual da empresa
+
+todo: Importância da gestão da informação
+- A era da informação trouxe preoucupações em gerenciar as informações
+- O volume de dados cresceu exponencialmente
+- Sem tecnologia, gerenciar os dados e informações é impossível hoje
+- Surgem funções específicas: CIO(Chief information officer), analista de informações etc.
+
+todo: Gestão da informação - requisitos
+1. Considerar a tecnologia como parceira
+2. Integrar sistemas (O ideal é ter um ERP único da empresa)
+3. Estabelecer regras de acesso às informações (Para ter maior segurança e até mesmo para uma boa convivência)
+4. Manter a integridados dos dados (Manter os dados corretos e íntegros)
+5. Organizar os dados (bancos de dados)
+------------------------------------------------------------------------------------------------------------------------
+todo: Os efeitos da era da informação na economia
+
+- A economia se transformou
+- Queda de barreira geográfica (A informação vai para qualquer pais muito rápido)
+- Novos modelos de negócios
+- Era industrial: a riqueza eram as máquinas e os prédios
+- Era pós-industrial: a riqueza são o conhecimento e as informações
+------------------------------------------------------------------------------------------------------------------------

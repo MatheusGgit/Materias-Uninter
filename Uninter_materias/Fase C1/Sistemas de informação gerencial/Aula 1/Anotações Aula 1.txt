@@ -1,0 +1,83 @@
+                                   O papel e a circulação das informações na empresa
+
+- As decições são tomadas com base em informações
+- Informação: matéria prima da decisão
+- Os gestores de empresas usam as informações para tomar decisões
+
+- As informações requerem análises prévias
+    - Filtragem de informações, ou seja, fazer uma filtragem e apresentar apenas as informações que
+      importam para determinada tomada de decisão
+
+Niveis de decição:
+todo: Nível operacional:
+- Informações muito numericas e previsíveis
+- Situações mais previsíveis, que ocorrem diariamente; decisões de efeitos imediatos; informações quantitativas
+
+todo: Nível tático:
+- Informações quantitativas e qualitativas; requerem maior análise
+- Possui informações numéricas(quantitativas)
+  mas também qualitativas(informações que não são numeros e requrem maior análise Ex: estrelas de um hotel)
+
+todo: Nível estratégico:
+- Decisões complexas e incertas; mais informações qualitativas; simulação de cenários
+------------------------------------------------------------------------------------------------------------------------
+todo: OBS: Os sistemas de informação devem ter um determinado nível de acesso, para maior segurança e utilização
+------------------------------------------------------------------------------------------------------------------------
+todo: Fluxos de informação
+
+Formal: Seguem regras de circulação e política
+Informal: não tem regras, circulam livremente, mas não quer dizer que sejam nocivos
+    - OBS: pode ser nocivo se for propagado informação falsa ou errada
+    - Ex: Funcionarios conversando pelo zap
+------------------------------------------------------------------------------------------------------------------------
+Dados, informação e conhecimento:
+
+todo: Dados:
+- Números, letras, imagens, sons, gráficos ou qualquer outro sinal sem um contexto
+- O que significa: 01/03/2022?
+- Dados não tem significado
+- Têm grande volume
+
+todo: Informação:
+- Dado, ou conjunto de dados - dotado de um significado
+- Dados compreensíveis
+- Ex: um gráfico ou relatório com datas de vendas
+- Volume de informações é menor do que dados
+
+todo: Conhecimento:
+- Além da informação
+- Compreensão da realidade de certa informação
+- Concretizados no saber, experiencias e ideias
+- Leva em conta o aspecto pessoal
+------------------------------------------------------------------------------------------------------------------------
+Informação qualitativas e quantitativas
+
+todo: Quantitativas:
+- Expressas e medidas em números (Informações econômicas)
+- Em geral são usadas nas empresas para comparar metas, resultados ou para especificar recursos
+- Devem ser tratadas de uma forma muito mais formal
+
+todo: Qualitativas:
+- Não são expressas em números
+- Não podem ser medidas diretamente
+- Formato textual
+- Ex: feedback de algum produto ou recurso
+- Fundamental para tomada de decisão
+------------------------------------------------------------------------------------------------------------------------
+todo: Convertendo dados em informações
+
+*Da uma olhada na imagem*
+
+- Coleta de dados, fontes internas e externas
+- Seleção dos dados relevantes para a análise
+- Totalizações, sumarização, porcentagem e médias
+- Apresentação dessas informações
+- Relatórios
+
+todo: Operações de transformação de dados em informação:
+Contextualização: Sabemos a finalidade dos dados coletados.
+Categorização: Conhecemos os componentes essenciais dos dados.
+Cálculo: Os dados podem ser analisados matemáticamente ou estatisticamente.
+Correção: Os erros são eliminados dos dados.
+Condensação: Os dados podem ser resumidos para uma forma mais concisa.
+------------------------------------------------------------------------------------------------------------------------

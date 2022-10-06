@@ -1,0 +1,63 @@
+todo:                            Conceito de sistema e sistemas de informação
+
+todo: O que é um sistema?
+- Conjunto de elementos que interagem entre si, a fim de produzir um resultado especifico
+
+Visão sistemica:
+- Entender tudo, não só saber utilizar o sistema mas saber como ele funciona
+
+todo: definição e conceito de sistemas de informação
+- Receber, processar e analisar dados a fim de produzir saidas
+------------------------------------------------------------------------------------------------------------------------
+todo: Decisões estruturadas:
+- Atividades operacionais
+- Informações mais precisas e previsiveis
+- Informações quantitativas
+- Decisões rotineiras
+
+todo: Decisões não estruturadas:
+- Têm maior incerteza
+- Informações mais imprecisas, situações imprevistas
+- Alta gestão da emprsa
+- Informações mais qualitativas
+- As informações od ambiente externo são importantes
+
+todo: Decisões semi-estruturadas:
+- Combinam informações estruturadas e semi-estruturadas
+- Normalmente nos níveis intermediarios(tático)
+- Exemplo: análise de comentários em redes sociais
+- Qualitativos e Quantitativos
+------------------------------------------------------------------------------------------------------------------------
+todo: Tomada de decisão
+
+Processo decisório:
+1. Inteligência: gestor e esquipe identificam o problema, analisam com mais profundidade, validam premissas e formulam os objetivos
+2. Concepção: elencadas as possíveis alternativas de solução para o problema ou questão levantados; prós e contras de cada alternativa
+3. Seleção: selecionada a alternativa que mais atende aos objetivos estabelecidos; problemas mais complexos, alternativas com pesos
+4. Revisão: a implementação da solução adotada é monitorada, a fim de verificar se é mesmo a melhor decisão
+------------------------------------------------------------------------------------------------------------------------
+todo: tomada de decisão pelo método Simon
+
+"Uma locadora de automóveis pretende renovar sua frota de veículos em t0do o Brasil, para aumentar o faturamento"
+
+Objetivos:
+- Aumentar a geração de receita de locação, ofertando automóveis mais novos
+- Reduzir o custo de manutenção da frota
+- Maximizar o vaor de revenda dos veículos
+
+1. Inteligência:
+- Análise incial
+    - As premissas são verdadeiras?
+    - Temos os recursos necessários?
+- Decisão a ser tomada:
+    - Renovaremos a frota?
+    - Em todas as regiões?
+    - Em quais condições?
+
+2. Concepção:
+- A empresa identifica que há três modelos de veículos viáveis: A, B e C
+- Os critérios que a empresa estabelece para peso são: Preço, custo de manutenção, valor médio de revenda e satisfação dos clientes
+- Cada critério recebe um peso numérico
+
+3. Seleção:
+Ver a imagem
