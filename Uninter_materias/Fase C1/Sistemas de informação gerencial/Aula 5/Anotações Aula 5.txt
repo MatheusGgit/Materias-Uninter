@@ -1,0 +1,41 @@
+todo:                      Revolução da informatica e os efeitos na economia
+
+E-business e E-commerce:
+- Dois conceitos distindos, emvora sejam usados algumas vezes com o mesmo significado
+
+todo: E-business:
+- Realização dos processos de negócio - não apenas transações comerciais - utilizando os SI nas redes digitais de dados
+- Por exemplo, um varejista envia 'eletronicamente' um pedido a uma fornecedor
+
+todo: E-commerce:
+- Trata exclusivamente dos processos de 'compra e venda' por meios digitais
+- Todos os passos da transação (menos a entrega)
+- Subconjunto do e-business
+- Sistemas de e-commerce -> plataformas de e-commerce (Loja)
+------------------------------------------------------------------------------------------------------------------------
+todo: Classificação dos sistemas de informação
+
+todo: Abrângencia:
+- Departamentais ou funcionais
+    - É comum que estes departamentos tenham sistemas que são usados apenas naquele departamento
+
+- Integrados (ERP)
+    - Pacote de sistemas que conversam entre sí
+    - Integram dados de todas as áreas da empresa
+    - BD único
+
+-  Interorganizacionais
+    - Integram dados de várias empresas
+    - Um sistema que várias empresas usam
+
+todo: Nível Funcional:
+- Sistemas de processamento de transações (SPT)
+    - Dados operacionais
+
+- Sistemas de informação gerencial (SIG)
+    - Dados gerenciais vindos do SPT
+    - Cuida da parte de processar os dados e analisar informações
+
+- Sistemas de informação estratégica (SIS)
+     - Sistemas de apoio a decisão (SAD, Interno)
+     - Sistemas de apio executivo (SAE, Externo)
