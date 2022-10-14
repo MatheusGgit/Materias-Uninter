@@ -1,0 +1,134 @@
+todo: 2 dessas estão erradas
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto e responda à questão:
+
+A Tod0 o momento utilizamos sistemas de informação. Hoje mesmo, se você fez compras em uma padaria,
+abasteceu seu veículo em um posto de combustíveis ou retirou dinheiro em um caixa eletrônico, muito provavelmente os
+dados referentes às suas transações foram registrados em um sistema. A esse tipo de sistema damos o nome de sistema de
+processamento de transações (SPT).
+
+“Os dados registrados por meio dos SPTs abastecem as bases de dados que serão acessadas por outros sistemas,
+em particular pelos sistemas gerenciais, o que torna os SPTs verdadeiros “guardiões” dos dados corporativos. ”
+(O’Brien, 2004)
+
+ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade. Curitiba:  Intersaberes, 2015.
+
+De acordo com os conceitos abordados no livro base da disciplina, em razão de sua importância para os
+negócios das empresas, os SPTs devem cumprir requisitos mínimos de qualidade, quais são os atributos funcionais?
+Analise as sentenças abaixo indicando (V) para verdadeiro e (F) para falso e na sequencia assinale a alternativa correta:
+
+(           ) Desempenho
+
+
+(           ) Disponibilidade
+
+
+(           ) Integridade de dados
+
+
+(           ) Modularidade
+
+
+(           ) Facilidade de uso
+
+todo: R: V-V-V-V-V
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto e responda à questão:
+
+Existe uma vasta quantidade de dados espalhados nos diversos bancos de dados e repositórios de documentos
+digitais de uma empresa. Em virtude da grande dispersão e da diferente natureza desses dados, é praticamente
+inviável transformá-los em informações estratégicas em tempo hábil para os gestores sem a ajuda de ferramentas
+especializadas. Para isso, muitos sistemas de informação oferecem módulos de software destinados a essa função.
+São os sistemas de BI, criados para auxiliar os gestores a analisar e acompanhar seus negócios por meio de informações
+consolidadas e relevantes para suas tomadas de decisão. ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade.
+Curitiba:  Intersaberes, 2015.
+
+De acordo com os conceitos abordados no livro base da disciplina, qual é o conceito de BI segundo Laudon e
+Laudon (2010)? Assinale a alternativa correta:
+todo: Conjunto de partes interdependentes que, em seu todo, constitui uma unidade e apresenta três funções basicas de interação...
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto e responda à questão:
+
+Em nosso cotidiano, a tod0 o momento utilizamos sistemas de informação. Hoje mesmo,
+se você fez compras em uma padaria, abasteceu seu veículo em um posto de combustíveis ou
+retirou dinheiro em um caixa eletrônico, muito provavelmente os dados referentes às suas transações foram
+registrados em um sistema. A esse tipo de sistema damos o nome de sistema de processamento de transações (SPT).
+ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade. Curitiba:  Intersaberes, 2015.
+
+De acordo com os conceitos abordados no livro base da disciplina, qual é a função dos SPTs? Assinale a alternativa correta:
+todo: R: Registrar dados referentes às atividades básicas e rotineiras de uma empresa
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto e responda à questão:
+Os sistemas de gestão de projetos apoiam os gerentes de projetos em suas atividades por meio de interfaces,
+ferramentas e relatórios gerenciais que facilitam o seu trabalho e o de toda a equipe do projeto.
+Conforme descrito em Keeling (2014), o valor dos SIGs para a gestão de projetos se encontra nos níveis táticos e
+operacionais, como apoio ao projeto, processos, tarefas e atividades, de modo a acelerar o trabalho de integração entre
+planejamento, programação, financiamento, controle e revisão, por meio da geração de tabelas, gráficos,
+redes de precedência, agendas e relatórios. ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade.
+Curitiba:  Intersaberes, 2015.
+
+De acordo com os conceitos abordados no livro base da disciplina, os SIGs para a gestão de projetos
+fornecem suporte às três principais atividades realizadas por um gerente de projetos, quais são os três tipos de gerenciamento?
+todo: Assinale a alternativa correta: Gerenciamento de tarefas, gerenciamento orçamentário, gerenciamento de colaboração
+------------------------------------------------------------------------------------------------------------------------
+O estudo dos sistemas de informação surgiu como uma subdisciplina das ciências da computação,
+com o objetivo de racionalizar a administração da tecnologia no seio das organizações.
+ O campo de estudo foi-se desenvolvendo até vir mesmo a fazer parte dos estudos superiores dentro da administração[1].
+ Existem diversos conceitos sistemas. De acordo com  o que foi estudado, relacione os conceitos de sistemas a seguir e
+ depois assinale a alternativa correta:
+
+SPT – Sistema de Processamento de Transações
+
+SIG – Sistema de Informação Gerencial
+
+SAD – Sistema de Apoio a Decisão
+
+SAE – Sistema de Apoio Estratégico
+
+(     ) Observam fundamentalmente as informações externas à organização, em particular o comportamento do mercado, dos concorrentes, dos clientes e parceiros, em uma visão antecipativa.
+
+
+(     ) Utilizado para tomada de decisões complexas em problemas semiestruturados ou não estruturados.
+
+
+(     ) Utilizados para registrar tod0 o tipo de transação que faz parte da rotina de uma empresa, como vendas, pagamentos, dados contábeis.
+
+
+(     ) Permite o acompanhamento constante das operações por meio de indicadores de desempenho.
+
+todo: R: 4-3-1-2
+------------------------------------------------------------------------------------------------------------------------
+Um sistema de informação organizacional é um sistema de informação que trata do fluxo e da manutenção
+das informações que fornecem suporte aos processos de negócios de uma organização.
+Como Chiavenato (2010, p. 69) define Sistema de Informação Organizacional?
+
+Assinale a alternativa correta:
+todo: "Um sistema organizado e integrado de geração, processamento, armazenamento e comunicação de dados
+    e informações indispensável para a análise da situação e tomada de decisão"
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto e responda à questão:
+
+Os sistemas integrados de gestão, ou sistemas ERP – Enterprise Resource Planning,
+representam a evolução dos sistemas de informação nas empresas. Eles diferem dos demais sistemas – ditos departamentais –
+porque integram todas as atividades e todos os processos de negócio de uma organização em um único sistema,
+provendo informações de forma simplificada e em tempo real para todas as áreas funcionais da organização.
+ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade. Curitiba:  Intersaberes, 2015.
+
+De acordo com os conceitos abordados no livro base da disciplina,
+por que um sistema ERP (Entreprise Resource Planning) é considerado um sistema integrado? Assinale a alternativa correta:
+
+todo: R: O ERP é considerado um sistema integrado porque reúne, em um mesmo banco de dados, as informações de
+      todos os setores da empresa.
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto e responda à questão:
+O conceito de BI se refere ao conjunto de ferramentas de software e de dados desenvolvidas para organizar,
+analisar e disponibilizar o acesso aos dados, visando a ajudar os gestores e outros usuários corporativos a
+fundamentar suas decisões. Segundo Garrett (2012), um sistema de BI tem como objetivo principal mensurar o
+desempenho de uma empresa com vistas a obter vantagem competitiva e ouvir seus clientes por meio de ferramentas
+analíticas e de exploração de dados.ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade.
+Curitiba:  Intersaberes, 2015.
+
+De acordo com os conceitos abordados no livro base da disciplina,
+as tecnologias de BI podem ser divididas em três grupos. Quais são eles? Assinale a alternativa correta:
+todo: R: Data warehouse (DW), Olap e data mining.
+------------------------------------------------------------------------------------------------------------------------
