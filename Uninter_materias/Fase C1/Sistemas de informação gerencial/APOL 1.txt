@@ -1,0 +1,152 @@
+Um sistema de informação (SI) tem como finalidade armazenar e processar informações.
+Um SI coleta, processa, analisa e dissemina informações para um propósito específico.
+No entanto, os SI necessitam das pessoas e regras (normas) para terem uma eficácia completa.
+
+todo: R: somente a 1
+------------------------------------------------------------------------------------------------------------------------
+Um sistema de informação (SI) tem como finalidade armazenar e processar informações.
+Um SI coleta, processa, analisa e dissemina informações para um propósito específico.
+No entanto, os SI necessitam das pessoas e regras (normas) para terem uma eficácia completa.
+
+todo: R: Fluxo informacional
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto, e responda à questão:
+A complexidade das decisões gerenciais aumenta à medida que ascendemos nos níveis funcionais da organização,
+porque seus resultados se tornam menos previsíveis. De acordo com o grau de incerteza das informações e da
+previsibilidade das decisões, estas são classificadas em três tipos, quais são eles?
+
+todo: Assinale a alternativa correta:  Estruturadas, não estruturadas e semiestruturadas
+------------------------------------------------------------------------------------------------------------------------
+A partir da segunda metade do século XX, a criação dos computadores deu início a uma revolução silenciosa,
+que mudou definitivamente o cotidiano das pessoas e das organizações. Esse fenômeno, chamado de revolução da informação,
+transformou profundamente os ambientes corporativos ao criar novos modelos organizacionais e redesenhar o cenário
+competitivo das empresas. Existe uma tecnologia na origem dessa revolução, que é uma extraordinária invenção que
+transforma as informações em “registros digitais”. ELEUTERIO, M. A. M. Sistemas de Informações Gerenciais na Atualidade.
+Curitiba:  Intersaberes, 2015.
+De acordo com o texto acima e com os conceitos abordados no livro base da disciplina, que tecnologia é essa?
+
+todo: Assinale a alternativa correta: Tecnologia Digital
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto e responda à questão:
+
+As informações organizacionais são tratadas em um processo cíclico envolvendo, antes de qualquer coisa, a
+identificação da sua necessidade, passando pela sua aquisição, organização, armazenamento, distribuição e
+utilização (Choo, 2003). A cada etapa em que as informações são manipuladas, elas tendem a circular entre
+pessoas e sistemas, seguindo os denominados fluxos informacionais. Relativo às regras de circulação das informações,
+os fluxos podem ocorrer de maneira formal ou informal. Assinale os itens que são considerados Verdadeiros com (V),
+para os fluxos que ocorrem de maneira FORMAL, e com (F) para os que são Falsos:
+
+( ) estão na base da gestão da informação, refletindo as regras de circulação e proteção das informações.
+
+( ) iniciados de forma espontânea pelas pessoas, sem regras específicas e trafegando por múltiplos canais de comunicação.
+
+( ) um exemplo, é o envio de um relatório pelo gestor de um projeto aos seus participantes, conforme previsto no termo
+    de abertura e em conformidade com a política de comunicação da organização.
+
+( ) seguem normas e procedimentos bem definidos, previstos, estruturados e documentados nas políticas da organização.
+
+( ) são as informações trocadas em ambientes interativos, como as salas de chat online, os fóruns de discussão e os
+    ambientes de relacionamento.
+
+todo: R: V-F-V-V-F
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto e responda à questão:
+
+O modelo racional de decisão proposto por Simon (1979) pressupõe a utilização de informações objetivas e
+analíticas para proceder a escolha da melhor alternativa em uma tomada de decisão. Simon (1979) decompõe o
+processo decisório em quatro etapas: inteligência, concepção, seleção e revisão.
+
+Analise se as afirmativas a seguir são verdadeiras (V) ou falsas (F) em relação ao Processo Decisório.
+
+I - ( ) A etapa da inteligência é o momento em que o gestor e sua equipe caracterizam claramente o problema,
+        analisando-o com profundidade, validando suas premissas e formulando os objetivos a serem atingidos.
+
+II - ( ) Na etapa da concepção cada alternativa recebe um valor, que representa a sua utilidade para a solução.
+
+III - ( ) Os estudo de viabilidade técnica, comportamental e financeira fazem parte da etapa de concepção.
+
+IV - (  ) Na etapa da revisão a implementação da decisão, é monitorada para que seja possível verificar se a
+          alternativa escolhida foi mesmo a melhor decisão.
+
+todo: Assinale a alternativa que apresenta a sequência correta: V-F-V-V
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto e responda à questão:
+
+Herbert Simon, precursor nos estudos do processo decisório, sintetiza a tomada de decisão como
+‘uma combinação entre pensamento e ação que culmina em uma escolha’. (SIMON, 1965).
+
+Sobre os tipos de decisão avalie as alternativas a seguir e, em seguida, assinale a resposta correta:
+todo: Quando a decisão envolve um contexto de incerteza, uma situação imprevista...
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto e responda à questão:
+
+Sistemas de Informação Gerenciais (SIG), Sistemas de Apoio à Decisão (SAD) e Sistemas de Apoio aos
+Executivos (SAE) são termos largamente utilizados por executivos, sendo então muito importante o
+nosso entendimento sobre os respectivos conceitos. De acordo com o que foi estudado, relacione os conceitos a seguir:
+
+1.SIGs
+
+2.SADs
+
+3.SAEs
+
+
+(    ) Destinam-se a apresentar o desempenho geral da organização.
+
+
+(    ) Destinam-se à gestão cotidiana das organizações por meio de relatórios gerenciais.
+
+
+(    ) Buscam solucionar problemas complexos por meio de simulações de cenários e análises estatística.
+
+
+todo: Assinale a alternativa que apresenta a sequência correta: 3-1-2
+------------------------------------------------------------------------------------------------------------------------
+Analise as seguintes assertivas sobre dados e informação e assinale com V as assertivas verdadeiras e com F as assertivas falsas.
+
+
+I - (    ) Dados são registros de algo que foi observado e medido, e que podem ser expressos de maneira numérica, textual ou visual.
+
+
+II - (    ) Dado é o elemento base da informação.
+
+
+III - (    ) A informação é interpretativa, muitas vezes não sendo necessário ter os dados como base.
+
+
+IV - (    ) As informações são fatos brutos que descrevem um evento.
+
+
+V - (    ) A informação é o resultado da interpretação dos dados.
+
+
+todo: Agora, assinale a alternativa que apresenta a sequência correta: V-V-F-F-V
+------------------------------------------------------------------------------------------------------------------------
+Leia o texto, e responda à questão:
+
+Segundo Drucker (1972), gerenciar significa fazer com que as pessoas “façam o que precisa ser feito”.
+ O gestor não é aquele profissional que executa as tarefas diretamente,
+ mas aquele que assegura que elas sejam realizadas por sua equipe e de acordo com os objetivos traçados.
+ Portanto, a atividade gerencial pressupõe o planejamento e a coordenação das pessoas e dos processos organizacionais.
+
+A partir desse contexto, e de acordo com os estudos realizados durante a disciplina,
+analise as sentenças abaixo indicando (V) para verdadeiro e (F) para falso e assinale a
+alternativa correta referente as atividades de um gestor, segundo Drucker (1972):
+
+
+(           ) estabelecer objetivos.
+
+
+(           ) organizar atividades.
+
+
+(           ) motivar e deixar de controlar horário.
+
+
+(           ) mensurar e desenvolver as pessoas.
+
+todo: R: V-V-F-V
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
