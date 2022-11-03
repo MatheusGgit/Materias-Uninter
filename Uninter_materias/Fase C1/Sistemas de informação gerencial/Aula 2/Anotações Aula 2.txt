@@ -43,7 +43,7 @@ todo: tomada de decisão pelo método Simon
 Objetivos:
 - Aumentar a geração de receita de locação, ofertando automóveis mais novos
 - Reduzir o custo de manutenção da frota
-- Maximizar o vaor de revenda dos veículos
+- Maximizar o valor de revenda dos veículos
 
 1. Inteligência:
 - Análise incial

@@ -7,7 +7,7 @@ todo:                            Tecnologia da informação e comunicação (TIC
 todo: Planejamento das TIC:
 - Não são só software e hardware. É sobre como lidar com as informações
 - Os sistemas iniciam-se para nescessidades departamentais, crescem e abrangem toda a empresa e os ambientes externos
-- Hoje, conplexidade é a regra
+- Hoje, complexidade é a regra
 
 todo: Planejamento das TIC - elementos
 - Obsolescência programada
