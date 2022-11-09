@@ -1,0 +1,122 @@
+todo: Delimiter:
+- Padrão
+- É utilizado para trocar o caractere de finalização
+
+SINTAXE: DELIMITER 'CARACETERE' (Substitui o ';')
+    Ex: DELIMITER $$
+        Select * from aluno $$
+------------------------------------------------------------------------------------------------------------------------
+todo: Stored Procedures
+"É um procedimento de armazenagem foi implementado com base na versão 5.0 do MYSQL"
+"Parte do processamento (programação) é feito pelo banco de dados"
+
+- Validação de dados
+- Executar instruções SQL
+- Controle de acesso
+- Receber parâmetros
+- Retornar valores
+
+todo: Pontos negativos de usar Stored Procedure:
+
+"Nescessidade de maior conhecimento da sintaxe do banco de dados para escrita de rotinas em SQL"
+"As rotinas ficam mais facilmente acessíveis. Alguém que tenha acesso ao banco poderá visualizar e alterar o codigo"
+
+todo: Pontos positivos:
+
+"Simplificação da execução de instruções SQL pela aplicação"
+"Transferência de parte da responsabilidade de processamento para o servidor"
+"Facilidade na manutenção, reduzindo a quantidade de alterações na aplicação"
+
+todo: Criando Procedures:
+SINTAXE: CREATE PROCEDURE nome_procedure (parâmetros) DECLARAÇÕES;
+
+todo: Chamando procedures:
+SINTAXE: CALL nome_procedure(parâmetros)
+
+Ex de procedure:
+
+DELIMITER $$
+    CREATE PROCEDURE ExibeNumeroDePedidos
+    SELECT C.id_cliente, C.nome_cliente, COUNT(*)
+    FROM clientes C, Pedidos P
+    WHERE C.id_cliente = P.id_cliente
+    GROUP BY C.id_cliente, C.nome_cliente;
+END $$
+DELIMITER;
+
+CALL ExibeNumeroDePedidos();
+
+Apagando procedure: DROP PROCEDURE nome_procedure;
+------------------------------------------------------------------------------------------------------------------------
+todo: Functions
+"Segundo PUGA(2013), as functions são muito semelhantes as procedures, o que os difere, do ponto de vista estrututal, é
+a inclusão da clausula RETURN"
+
+CREATE FUNCTION nome_função (parâmetros)
+RETURNS tipoDeRetorno (int, varchar(precisa do tamanho), decimal)
+Codigo da função
+
+Ex:
+CREATE FUNCTION fn_teste (a DECIMAL (10,2), b INT)
+RETURNS INT
+RETURN a * b;
+
+Chamar uma função: SELECT fn_teste(2.5, 4) as RESULTADO;
+Apagar uma função: DROP FUNCTION nome_funcao;
+------------------------------------------------------------------------------------------------------------------------
+todo: Triggers:
+"Um trigger é um objeto do banco de dados que sempre está associado a uma tabela e é disparado automaticamente antes ou
+depois de um evento DML"
+
+- Uma trigger está relacionada a apenas uma tabela
+- Não pode ser executado transações
+- Não pode retornar valores de erros ou exeções
+
+Pontos positivos:
+Segundo Rodrigues (2016):
+- "Parte do processamento que seria executado na aplicação passa para o banco, poupando recursos da máquina-cliente"
+- "Facilita a manutenção, sem que seja necessário alterar o código fonte da aplicação"
+
+Pontos negativos:
+"Alguém que tenha acesso não autorizado ao banco de dados poderá visualizar e alterar o processamento realizado pelos gatilhos"
+"Requer maior conhecimento de manipulação do banco de dados (SQL) para realizar as operações internamente"
+
+Criando:
+
+CREATE TRIGGER nome MOMENTO EVENTO
+ON TABELA
+FOR EACH ROW
+BEGIN
+    /* corpo do código */
+END
+
+Ex:
+CREATE TRIGGER tr_desconto BEFORE INSERT
+ON Livros
+FOR EACH ROW
+SET NEW.preco_desconto=(NEW.preco_produto*0.90); // Dando 10% de desconto
+
+deletando trigger: DROP TRIGGER nome_trigger;
+
+------------------------------------------------------------------------------------------------------------------------
+todo: Estruturas de programação
+
+As stored procedures podem ter dentro dos seus procedimentos alguns processos, como:
+- Condicionais
+- Laços de repetição
+- Funções
+
+Condicionais:
+IF<condição> THEN
+    commandos sql caso verdadeiro
+ELSE
+    comandos sql caso falso
+END IF;
+
+Laços de repetição:
+WHILE contador < limite DO
+    SET contador = contador + 1;
+    SET soma = soma + contador;
+END WHILE;
+
+------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,137 @@
+todo: Tem varias aulas misturadas aí (3 - 5)
+
+O que pode ser feito, segundo Damas (2005):
+- Criar, alterar e remover elementos de um banco de dados
+- Inserir, alterar e apagar dados
+- Consultar dados
+- Controlar o acesso do usuário
+-------------------------------------------------------------------------------------------------------------------------
+todo: Segundo PUGA (2013), a SQL-92 é divida em três categorias:
+1. DDL - Data Definition Language (Todos os comando que represantam a estrutura)
+2. DML - Data Manipulation Language
+    - DCL - Data Control Language
+    - DCL é uma categoria da DML
+3. TCL - Transaction Control Language
+-------------------------------------------------------------------------------------------------------------------------
+todo: Padronização do SQL
+- 1987 - ANSI
+- 1987 - ISO
+- Os padrões são "dialetos" que os principais fabricantes de SGBDs implementam em seus bancos de dados
+
+- Surgem quando o fabricante precisa implementar algum recurso no SGDB, mas esse recurso ainda não foi
+  validado/criado no padrão ANSI
+
+- Os padrões criados pelas empresas têm suas particularidades, mas seguem a base do SQL
+-------------------------------------------------------------------------------------------------------------------------
+todo: CRIAÇÃO DO BANCO DE DADOS:
+
+CREATE DATABASE Aulas_Uninter;
+USE Aulas_Uninter;
+
+CREATE TABLE cad_aluno
+	(
+		cod_aluno varchar(5),
+		nome varchar(30)
+	);
+
+	CREATE TABLE materia
+	(
+		cod_materia int primary key auto_increment not null,
+		data_inicio date not null,
+		nome varchar(40) not null
+	);
+
+	CREATE TABLE turno
+	(
+		cod_turno int primary key auto_increment not null,
+		nome_turno varchar(20) not null
+	);
+-------------------------------------------------------------------------------------------------------------------------
+todo: Comandos que representam o DDL:
+- CREATE DATABASE 'nome do banco'
+- CREATE TABLE 'nome da tabela'
+- USE 'nome da database'
+- SHOW DATABASES
+- SHOW TABLES
+- DESCRIBE 'nome da tabela'
+- ALTER TABLE cad_aluno RENAME aluno;
+- ALTER TABLE aluno MODIFY nome varchar(100);
+- ALTER TABLE aluno ADD COLUMN email varchar(40);
+- ALTER TABLE aluno DROP COLUMN email;
+- ALTER TABLE aluno AUTO_INCREMENT = 15;
+- DROP TABLE aluno;
+- DROP DATABASE Aulas_Uninter;
+-------------------------------------------------------------------------------------------------------------------------
+todo: Manipulação de dados (DML)
+Grupos de comandos:
+- Inserir
+- Selecionar
+- Atualizar
+- Apagar
+
+Comandos:
+- INSERT INTO aluno (cod_aluno, nome) values(459, 'João Maria');
+- INSERT INTO aluno (cod_aluno, nome) values(459, 'João Maria'), (89, 'Pedro'), (981, 'Maria Paula');
+- SELECT * FROM aluno;
+- WHERE (usado no SELECT, UPDATE, DELETE)
+- SELECT * FROM aluno WHERE cod_aluno > 300 ORDER BY nome ASC;
+- SELECT * FROM aluno WHERE idade BETWEEN 20 AND 35;
+- SELECT * FROM aluno WHERE idade BETWEEN 20 AND 35;
+- SELECT * FROM aluno WHERE nome LIKE '%a'; Termina com 'A'
+- SELECT * FROM aluno WHERE nome LIKE 'c%'; Começa com 'C'
+- SELECT * FROM aluno WHERE nome LIKE '%i%';  Possui 'i' no nome
+- SELECT * FROM aluno WHERE nome LIKE '_a%';  Precisa ter 1 caracter na frente do 'A'
+- UPDATE aluno SET nome = "Lucas" WHERE id = 10;
+- DELETE FROM aluno WHERE id = 10;
+-------------------------------------------------------------------------------------------------------------------------
+todo: Consulta entre tabelas
+- SELECT aluno.nome, cidade.nome FROM aluno JOIN cidade ON aluno.cod_alunos = cidade.id;
+- SELECT avg(salario) FROM funcionarios; - Media de salario;
+- SELECT sum(salario) FROM funcionarios;
+- SELECT count(*) as 'Funcionarios' FROM funcionarios; - Mostra a quantidade de funcionarios
+- SELECT max(salario) from funcionarios;
+- SELECT min(salario) from funcionarios;
+-------------------------------------------------------------------------------------------------------------------------
+todo: DCL:
+
+- CREATE USER 'chefe' IDENTIFIED BY '123'; o IDENTIFIED é a senha do usuario
+- DROP USER 'chefe';
+
+- Permissão dos usuarios:
+- GRANT/REVOKE
+
+- GRANT select, insert, delete, update ON alunos TO chefe;
+- GRANT all privileges ON *.* TO chefe; - Nível global, todos os bancos de dados
+- GRANT select, insert, delete, update ON aulas_uninter.* TO chefe; - Todas as tabelas do banco
+- GRANT select, insert, delete, update ON aulas_uninter.aluno TO chefe; - Apenas uma tabela do banco
+
+- REVOKE all privileges ON *.* TO chefe;
+- REVOKE all privileges ON aulas_uninter.* TO chefe;
+-------------------------------------------------------------------------------------------------------------------------
+todo: TCL:
+
+// Basicamente um TRY do banco de dados, primeiro ele executa os codigos na memoria e se der tudo certo
+   ele da um COMMIT no banco fisico
+
+BEGIN TRANSACTION;
+	INSERT INTO cod_aluno, nome FROM aluno VALUES(8, 'Matheus');
+COMMIT; ou ROLLBACK TRANSACTION; - COMMIT grava e o ROLLBACK volta para o estado anterior do TRANSACTION
+-------------------------------------------------------------------------------------------------------------------------
+todo: Índices: // Funciona do mesmo jeito que um índice de livro, serve pra fazer uma busca mais rápida
+
+CREATE INDEX 'Cidade' ON funcionarios (cidade);
+CREATE INDEX 'Cidade' ON funcionarios (cidade, estado);
+
+CREATE TABLE funcionarios
+(
+	nome varchar(30),
+    sobrenome VARCHAR(30),
+	INDEX NomeFuncionario (sobrenome)
+);
+
+Bons campos para usar index:
+- Primary Key
+- Foreign Key
+- Colunas acessadas por intervalos (BETWEEN)
+- Colunas utilizadas em GROUP BY ou ORDER BY
+-------------------------------------------------------------------------------------------------------------------------
