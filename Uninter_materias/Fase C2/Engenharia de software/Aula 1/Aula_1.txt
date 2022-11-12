@@ -1,0 +1,188 @@
+todo: Engenharia de software:
+"Existem muitos tipos diferentes de sistemas de software, variando de sistemas embarcados simples até sistemas de informação complexos
+(Sommerville, 2018, p3)"
+
+Exemplos de tipos:
+- Serviços públicos nacionais
+- Indútrias completamente informatizadas
+- Setores de entreterimento
+- Telefonia
+- Entre outros
+
+"Os sistemas de software podem rapidamente se tornar bastante complexos, difíceis de se entender e caros de modificar"
+
+"Não há notações, métodos ou técnicas universais para o desenvolvimento de uma varidade completamente heterogênea de sistemas de software"
+
+"A engenharia de software se destina a apoiar o desenvolvimento de software profissional em vez da programação individual.
+Ela inclui que apoiam a especificação, o projeto e a evolução do software (Sommerville, 2018, p. 5)"
+    - O que essa frase quer dizer é que os métodos que a engenharia de software propõem não nescessáriamente sera
+      usada em projetos pequenos, ou que não demandam de manunteção constante.
+
+"[...] referem-se a um conjunto de atividades relacionadas que levam à produção de um sistema de software. [...]
+não há um método universal de engenharia de software que seja aplicável a todos os tipos diferentes de sistemas de software existentes.
+Desse modo, não existem processos de software universalmente aceitos (Sommerville, p. 29)"
+------------------------------------------------------------------------------------------------------------------------
+todo: - Sommerville (2018) destaca que os processos devem incluir quatro atividades funcamentais:
+
+1. Especificação: a funcionadade do software e as restrições sobre sua operação devem ser definidas
+2. Desenvolvimento: o software deve ser produzido para atender a especificação
+3. Validação: o software deve ser validado para garantir que atenda o que o cliente deseja
+4. Evolução: o software deve evoluir para atender as mudanças na nescessidade dos clientes e deve estar preparado desda etapa de desenvolvimento
+------------------------------------------------------------------------------------------------------------------------
+todo: Modelos de processos de software
+
+1. Processos prescritivos: modelos de processos tradicionais, que surgiram com o propósito de organizar e direcionar as
+   atividades inerentes ao desenvolvimento de software
+    - O produto só é entregue depois que o sistemas esta pronto e todas as funcionlidades foram desenvolvidas
+
+2. Processos ágeis: possuem iterações curtas, nas quais o resultado é medido atraés do produto pronto, ao contrário dos
+   modelos prescritivos, em que o desenvolvimento é divido em etapas bem definidas
+    - O software é entregue em versões, conforme o sistema vai sendo desenvolvido ele vai sendo entregue e o cliente já pode
+      ir utilizando as novas funcionalidades
+------------------------------------------------------------------------------------------------------------------------
+todo: Modelo cascata
+- Desenvolvido na década de 1970
+- Derivado dos modelos utilizados na engenharia de grandes sistemas militares
+- Apresenta o processo de desenvolvimento de software como uma série de fases
+
+1. Definição dos requisitos
+2. Projeto do sistema e do software
+3. Implementação e teste de unidade
+4. Integração e teste de sistema
+5. Operação de manutenção (Desta fase é possível voltar a qualquer outra fase)
+
+Vantagens:
+- Fases bem definidas ajudam a detectar erros mais cedo
+- Procura promover e estabilidade dos requisitos
+- Funciona bem quando os requisitos são conhecidos e estáveis
+- É adequado para equipes tecnicamente fracas ou inexperientes
+
+Desvantagens:
+- Não produz resultados tangíveis até a fase de codificação (Ou seja, demora muito para entregar o produto para o cliente fazendo com que demore para receber feedback)
+- É difícil estabelecer requisitos completos antes de começar a codificar
+- Desenvolvedores sempre reclamam que os usuários não sabem expressar aquilo de que precisam
+- Não há flexibilidade com requisitos
+------------------------------------------------------------------------------------------------------------------------
+todo: Modelo de cascata dupla
+
+- A unica coisa que muda é que pode-se retornar a uma fase anterior de qualquer fase do projeto
+------------------------------------------------------------------------------------------------------------------------
+todo: Modelo V - Olhar foto
+
+1. Fase de requisitos (Determina os requisitos)
+2. Fase de design arquitetural (Pega os requisitos e os dividem em unidades coesas)
+3. Fase de design detalhado (Coloca essas nescessidades em uma ordem prioritária de desenvolvimento)
+4. Implementação
+5. Fase de teste de unidade ---verifica--> Fase de design detalhado
+6. Fase de teste de integração ---verifica--> Fase de design arquitetural
+7. Fase de teste de sistema ---verifica--> Fase de requisitos
+------------------------------------------------------------------------------------------------------------------------
+todo: Modelo W - Olhar foto
+------------------------------------------------------------------------------------------------------------------------
+todo: Resumo das fases
+
+Tanto no modelo V como W existem:
+- Fase de requisitos: apenas requisitos que possam ser testados são aceitáveis ao final dessa fase
+- Fase de design arquitetural: arquiteturas simples devem ser fáceis de testar. Caso contrário, talves a arquitetura
+  seja demasiadamente complexa e necessite ser refatorada
+- Design detalhado: a mesma questão se coloca em relação às unidades. Unidades coesas são mais fáceis de testar
+------------------------------------------------------------------------------------------------------------------------
+todo: Modelo espiral (foto)
+
+- Criado em 1986
+- Apresenta a ideia em ciclos iterativos
+- O projeto é dividido
+- "Cada subprojeto aborda um o mais elementos de alto risco, até que todos os riscos identificados tenham sido tratados
+  (Wazlavick)"
+- Foca também nos riscos do projeto
+
+Iterações do modelo espiral:
+1. concepção das operações
+2. requisitos do software
+3. desenvolvimento do sistema
+4. testes
+
+Vantagens:
+- As primeiras iterações são as mais baratas do ponto de vista de investimento de tempo e de recursos
+- Também são as que resolvem os maiores provlemas do projeto
+
+Desvantagens:
+- Esse modelo não provê a equipe com indicações claras sobre a quantidade de trabalho esperada a cada ciclo
+- Pode tornar o tempo de desenvolvimento nas primeiras fases bastante imprevisível (Wazlawick)
+------------------------------------------------------------------------------------------------------------------------
+todo: desenvolvimento em fases
+
+- "... o sistema é projetado de modo que possa ser entregue em partes, possibilitando aos usuários dispor de alguns
+recursos enquanto o restante do sistema está sendo desenvolvido (Pfleeger, 2004, p. 45)"
+
+- Sistema em produção: é o sistema ques está sendo atualmente utilizado pelo cliente
+- Sistema em desenvolvimento: é a versão seguinte que está sendo desenvolvida para substituir o sistema em produção
+
+todo: Abordagens do modelo de desenvolvimento em fases:
+Desenvolvimento incremental: O sistema é dividido por funcionalidades e cada versão entrgue corresponde a uma delas ou
+                             a um conjunto dessas funcionalidades
+
+Desnvolvimento iterativo: A primeira versão entregue corresponde ao sistema completo, porém com funcionalidades limitadas.
+                          Cada versão posterior corresponde a mudanças realizadas nas funcionalidades limitadas
+
+todo: Exemplificando:
+- O projeto a ser desenvolvido refere-se a um software de processamento de textos(notepad). Esse software deve oferecer os seguintes recursos
+1. Criar textos
+2. Organizar textos (recortar e colar)
+3. Formatar textos
+
+Incremental:
+    - Versão 1: Função de criação de textos
+    - Versão 2: Criação e organização de textos
+    - Versão 3: criação, organização e formatação de textos
+
+Iterativo:
+    - Versão 1: formas primitivas das três funções
+        - Podemos criar textos, mas não podemos recortar ou colar
+        - Podemos formatar textos, mas não podemos mudar a cor e tamanho da fonte
+
+    - Versão 2: as funções de recortar e colar são implementadas
+    - Versão 3: as funções para mudar a cor e o tamamho da fonte são implementadas
+------------------------------------------------------------------------------------------------------------------------
+todo: Prototipação evolucionária:
+
+"... a prototipação evolucionária não precisa ser soomente uma atividade para incrementar outros modelos de processos,
+de modo que ela própria pode ser a base de um modelo de processo efetivo (Pfleeger)"
+
+- Permite que tod0 o sistema, ou parte dele seja construído rapidamente
+- Tem o mesmo objetivo de um protótipo de engenharia
+- Auxilia na definição dos requisitos
+- Facilita para garantir que desenvolvedor, usuário e cliente cheguem a um consenso sobre o que é nescessário e o que é proposto
+
+Métodos de prototipação evolucionária:
+- Throw away ou descartável: refere-se a protótipos usados unicamene para estudar aspectos do sistema,
+                             entender melhor seus requisitos e reduzir riscos
+- Cornerstone ou fundamental: refere-se a protótipos para serem parte do sistema final, de modo que o protótipo
+                              vai evoluindo até se tornar um sistema que possa ser entregue
+------------------------------------------------------------------------------------------------------------------------
+todo: RUP
+
+- Concepção: elabora-se um plano de negócios para o sistema, com o objetivo de identificar as entidade externas e os
+             requisitos, a fim de avaliar a contribuição dos sistema para o negócio
+- Elaboração: são desenvolvidos os requisitos e a arquitetura do sistema
+- Construção: implementação e testes
+- Transição: implantação em ambiente real
+
+- Baseia-se em pequenas iterações, semelhante ao modelo ágil
+- Reúne os elementos de todos os modelos de processos estudados
+- Apioa a prototipação e a entrega incremental do software (Sommerville 2018)
+
+Disciplinas de projeto:
+- Modelagem de negócio: compreender a empresa e seus processos
+- Requisitos: elicitação dos requisitos e design da interface
+- Análise e design: detalhamento dos requisitos para a modelagem
+- Implementação: desenvolvimento e testes de unidade
+- Teste: testes de integração e interação
+    todo: - A diferença entre teste e implementação, é que a implementação faz testes de cada funcionalidade nova e a
+      disciplina de teeste faz os testes entre a integração dessas funcionalidades
+- Implantação: versões para serem entrgues
+
+Disciplinas de apoio:
+- Ambiente: ambiente de desenvolvimento. Configuração do processo para desenvolver o projeto. Ferramentas de apoio
+- Gerenciamento de mudança e configuração: Mantém a integridade dos artefatos produzidos
+- Gerencia de projeto: planeja o projeto inteiro e cada interação individualmente. Gerência os riscos e monitora o progresso
