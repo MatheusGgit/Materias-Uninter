@@ -1,0 +1,168 @@
+Desenvolvimento Ágil
+
+- A partir de 1990, começam os métodos ágeis para o desenvolvimento de software
+- Em 2001, é criado o Manifesto para o Desenvolvimento Ágil de Software (Agile Alliance)
+- Indivíduos e iterações, mais que processos e ferramentas
+- Software em funcionamento, mais que uma documentação abrangente
+- Colaboração com o cliente, mais que negociações de contrato
+- Responder as mudanças, mais que seguir um plano
+
+- Incentiva a estruturação e as atitudes em equipe que tornam a comunicação mais fácil entre os membros
+- Enfatiza a entrega rápida do software operacional e diminui a importancia dos artefatos intermediários
+- Assume o cliente como parte da equipe de desenvolvimento
+- Reconhece que o planejamento em um mundo incerto tem seus limites e que o plano de projeto deve ser flexível (Pressman, 2011)
+
+todo: O "Manifesto Ágil" estabelece 12 princípios de agilidade para quem quiser ser ágil:
+1. A prioridade é satisfazer o cliente por meio de entrega adiantada e contínua de software
+2. Acolha bem os pedidos de alterações, mesmo atrasados no desenvolvimento
+3. Entregue software funcioando com frequência, de algumas semanas até alguns meses, com preferência a intervalos curtos
+4. O pessoal comercial e os desenvolvedores devem trabalhar em conjunto
+5. Construa projetos em torno de indivíduos motivados. Dê a ales ambiente e apoio necessários
+    (Neste modelo não considera-se desligar um membro por estar desmotivado, mas sim motiva-lo e dando apoio)
+6. O método mais eficiente e efetivo de trasmitir informações é uma conversa aberta, de forma presencial
+7. Software em funcionamento é a principal medida de progresso
+8. Os processos ágeis promovem desenvolvimento sustentável. Os envolvidos devem manter um ritmo constante
+9. Atenção contínua à excelência técnica e aos bons projetos aumenta a agilidade
+10. Simplicidade é essencial
+11. Os melhores projetos emergem de equipes que se auto-organizam
+12. A intervalos regulares, a equipe se avalia para ver como se tornar mais eficiente (Manter um horário de trabalho, evitar horas extras)
+------------------------------------------------------------------------------------------------------------------------
+Sobre os modelos prescritivos e algumas desvantagens:
+- "... quando modelos prescritivos são aplicados a sistemas de negócios de pequeno ou médio porte, a sobrecarga é tão
+ grande que domina o processo de desenvolvimento de software"
+
+- Mais tempo é investido nas decisões do que no desenvolvimento ou nos testes
+- Se os requisitos mudam, retrabalho é nescessário, e a especificação e o projeto têm de mudar
+------------------------------------------------------------------------------------------------------------------------
+todo: Extreme Progamming (XP)
+
+- Surgiu nos EUA no final da década de 1990
+- Preconiza mudanças incementais e feedback rápido
+- considera a mudança como parte do processo
+- Considera que pequenos ganhos a curto prazo pelo sacrifício da qualidade não são compensados pelas perdas a médio e longo prazo
+    - Dar enfaze a qualiade total do desenvolvimento, mesmo se ocorra atrasos
+
+"Para aplicar o método XP, é nescessário seguir uma série de práticas que dizem respeito ao relacionamento com o cliente,
+a gerência do projeto, a programação e os testes
+(Wazlavick, 2013, p. 62)"
+
+Práticas para a aplicação do método XP
+- Práticas XP:
+    - Jogo de planejamento - Planejamento do projeto
+    - Metáforas - Manter uma comunicação adequada com o cliente, não ser utilizado termos complexos que faz o cliente não entender
+    - Equipes coesas - todos os desenvolvedores estejam trabalhando em um mesmo ambiente de desenvolvimento
+    - Reuniões em pé - Foco em ser o mais rápido e objetivo possível
+    - Design simples - Facilitar o uso do projeto
+    - Versões pequenas - Para que sejam mais rapidas de testar e desenvolver
+    - Ritmo sustentável - manter um horário fixo (8 hrs)
+    - Posse coletiva - todo mundo tem o mesmo acesso ao projeto
+    - Programação em pares -
+    - Padrão de codificação - manter um padrão como estilo de variavel, nomes, etc.
+    - testes de aceitação - verificar se o que foi desenvolvido é o que o cliente realmente quer
+    - Desenvolvimento orientado a teste - testar todas as fases do projeto
+    - Refatoração -
+    - Integração contínua - prega que não seja aguaradado o término de uma função para que ela seja inegrada
+------------------------------------------------------------------------------------------------------------------------
+todo: Desenvolvimento dirigido por funcionalidade (FDD)
+
+- Criado em 1997
+- Enfatiza o uso de orientação a objetos
+- Foca no desenvolvimento por funcionaliadedes
+- Planejamento incremental e iterativo
+- Integração contínua das funcionalidades
+- Teste de software
+
+Dividido em duas fases
+    - Concepção e planejamento
+        - Indetifica-se o problema e a melhor solução
+        - Prazo de execuções entre uma e duas semanas
+    - Construção
+        - Ciclos iterativos de uma e duas semanas
+------------------------------------------------------------------------------------------------------------------------
+todo: Método Crystal clear
+- Criado em 1997
+- Adequado para equipes pequenas (máximo 8)
+- Equipes compostas por um designer líder e entre dois e sete programadores
+- Uso de "radiadores" de informação - (Manter um histórico de: O que JÁ FOI feito/ O que ESTÁ SENDO feito/ O que DEVE SER feito)
+- Fácil acesso a especialistas de domínio
+- Eliminação de distrações
+- Cronograma de desenvolvimento e ajuste do método quando nescessário
+
+Ciclo de vida do método crystal clear:
+- Organizando em três níveis:
+1. iteração
+    - Composto por estimação, desenvolvimento e celebração. Costuma durar poucas semanas
+2. Entrega
+    - Formado por várias iterações. Ciclos máximos de dois meses
+3. Projeto
+    - Formado pelo conjunto de todas as versões/entregas
+------------------------------------------------------------------------------------------------------------------------
+todo: Desenvolvimento de software adaptativo - ASD
+- Tem como base sistemas adaptativos complexos
+- Enxerga o proceso de desenvolvimento de software com;
+    - Agentes
+        - Clientes, desenvolvedores, usuários
+    - Ambientes
+        - Organizacional, tecnológico e de processos
+
+Fases do método ASD
+    - Especular
+    - Colaborar
+    - Aprender
+
+Fase de especulação:
+    - Projeto é iniciado
+    - O planejamento é conduzido em ciclos adaptáveis, com foco em:
+        - Determinar o tempo de duração do projeto
+        - Quantidade de ciclos e duração de cada um
+        - Obetivos de cada ciclo
+        - Componentes a serem desenvolvidos, tecnologias necessárias e listas de tarefas
+
+Fase de colaboração
+    - A equipe tem como foco:
+        - Realizar as atividades que podem ser mais previsíveis (Mais importantes)
+        - Realizar as atividades que podem são naturalmente mais incertas
+   - A partir dessa colaboração, vários componentes serão desenvolvidos de forma concorrente
+
+Fase de aprendizado
+    - Revisão de qualidade
+    - Exige repetidas revisões de qualidade
+    - Repetidos testes de aceitação
+    - Necessária a presença do cliente e de especialistas do domínio
+------------------------------------------------------------------------------------------------------------------------
+todo: Método Scrum
+- Tem como foco a gestão de projetos de software
+- Tem como um dos conceitos mais importantes o sprint
+- Pode ser integrado a outros métodos ágeis com facilidade
+- Por isso, pode-se dizer que é um dos métodos ágeis mais utilizados
+
+Resumidademente:
+    - O scrum é aplicado em três fases
+        1. Planejamento geral. Estabelecem-se os objetivos gerais do projeto e da arquitetura
+        2. Execução dos ciclos de sprint. Cada ciclo desenvolvie um incremento do sistema
+        3. Encerra-se o projeto. Completa-se a documentação. Avaliam-se as lições aprendidas com o projeto
+
+todo: Papéis do scrum (Equipes do projeto)
+- Scrum master
+    - Facilitador e solucionador de conflitos. Responsável por manter o time scrum em um ambiente propício para concluir o projeto
+- Product owner
+    - Representa a voz do cliente dentro da equipe. Responsável pelo projeto em si. Indica quais são os requisitos mais
+      importantes a serem tratados em cada sprint
+- Scrum team
+    - Trata-se da equipe de desenvolvimento. Todos interagem para desenvolver o produto em conjunto
+
+Product backlog (Foto)
+    - Refere-se às funcionalidades a serem implementadas em cada projeto
+
+Sprints:
+    - Ciclo de desenvolvimento que, em geral, vai de duas semanas a um mês
+    - Os elementos do product backlog a serem implementados são priorizados e transferidos para o sprint backlog
+    - Mantém-se o sprint backlog atualizado. indicando as tarefas já concluidas e as que ainda estão para concluir
+
+Reuiniões
+    - Diárias
+        - Realizadas a cada 24 horas, em pé
+        - Atualizar o time sobre o andamento do sprint
+    - Revisão
+        - Realizadas ao final de cada sprint
+        - Avalia o produto do trabalho (O que foi feito e o que deve ser feito)
