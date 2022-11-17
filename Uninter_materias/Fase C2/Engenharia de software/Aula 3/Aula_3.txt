@@ -1,0 +1,68 @@
+Projetos de arquitetura de software
+------------------------------------------------------------------------------------------------------------------------
+Projeto
+
+- "Para desenvolver um software, partimos do contexto geral desse sistema, para depois separarmos os processos em cada
+   fase, de acordo com o modelo de processos (prescritiviso ou ágeis) escolhido"
+------------------------------------------------------------------------------------------------------------------------
+todo: Conforem Pressman (2011), as etapas de um projeto de arquitetura são:
+1. Projeto de dados ("A base de dados, com ela é definido o que poderá ou não ser feito no projeto")
+    - Levantamento de requisitos
+    - Definição das entidades externas com as quais o software irá interagir (Diagrama entidade-relacionamento)
+
+2. Derivação da estrutura da arquitetura do sistema (Modelagem do sistema)
+    - Identificação de arquétipos arquiteturais
+    - Absrtações de elementos do sistema
+    - Definição de classes e objetos
+        - Linguagem UML
+        - Digrama de classes (O diagrama de classes também faz parte do projeto de dados, porém aqui ela é em mais baixo nível,
+                              e lá em alto nível)
+
+3. Análise de estilos ou padrões de arquitetura alternativos
+    - Define-se o padrão de arquitetura do software a ser implementado
+
+4. Implementação da arquitetura utilizando-se um modelo de processos
+    - Implementação da arquitetura
+------------------------------------------------------------------------------------------------------------------------
+todo: Padrões de arquitetura de software
+
+"[...] é como uma descrição abstrata, estilizada, das práticas recomendadas que foram testadas e aprovadas em diferentes
+subsistemas e ambientes (Sommerville)"
+------------------------------------------------------------------------------------------------------------------------
+todo: Levantamento de requisitos
+
+"[...] são as descrições do que o sistema deve fazer, os serviços que oferecem e as restrições a seu funcionamento.
+Esses requisitos refletem as nescessidades dos clientes para um sistema que serve a uma finalidade determinada,
+como controlar um dispositivo, colocar um pedido ou encontrar informações"
+
+"[...] são classificados como requisitos funcionais e não funcionais"
+
+todo: Técnicas para elicitação de requisitos (Coleta):
+- Entrevistas
+    - Formais ou informais, com usuários e demais partes envolvidas no sistema
+- Cenários
+    - Podem ser escritos como texto, suplementados por diagramas, telas, entre outros
+- Casos de uso
+    - Abordagem mais estruturada de cenários. Identifica os atores envolvidos em uma iteração e dá nome ao tipo de iteração
+- Etnografia
+    - Técnica de observação que pode ser usada para compreender os processos operacionais e ajudar a extrair os requisitos para esses processos
+
+todo: Requisitos funcionais (O que o sistema faz ou não faz):
+- Declarações dos serviços que o sistema deve fornecer
+- Como o sistema deve agir com relação a determinadas entradas
+- Como o sistema deve se comportar em determinadas situações
+- O que o sistema não deve fazer
+
+todo: Requistos não funcionais (O que o sistema precisa para ele funcionar)
+- Restrições sobre os serviços ou funções oferecidas pelo sistema
+    - Restrições de tempo
+    - Restrições sobre o processo de desenvolvimento
+    - Restrições impostas por padrões
+- Aplicam-se ao sistema como um tod0, em vez de às características individuais ou oas serviços
+------------------------------------------------------------------------------------------------------------------------
+todo: Gestão de configuração e mudança
+
+"[...] é um conjunto de atividades destinadas a gerenciar as alterações identificando os artefatos que precisam ser alterados,
+ estabelecendo relações entre eles, definindo mecanismos para gerenciar diferentes versões desses artefatos,
+ controlando as alterações impostas e auditando e relatando alterações feitas"
+    (Basicamente é uma explicação sobre versionamento "Git" e a importancia sobre resgatar versões anteriores por algum motivo)
