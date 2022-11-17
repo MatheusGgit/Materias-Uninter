@@ -1,0 +1,18 @@
+Analise de pontos de função
+- Técnica de medição do tamanho funcional de um software
+------------------------------------------------------------------------------------------------------------------------
+Pontos de caso de uso
+
+"O metodo se baseia na análise da quantidade e complexidade dos atores e casos de uso, o que gera os UUCP,
+ou pontos de casos de uso não ajustados. Depois, a aplicação e os fatores tecnicos e ambientais levam o UCP, ou pontos de caso de uso ajustados"
+
+Complexidade dos atores:
+Segundo Wazlawick (2013):
+- Atores humanos que interagem com o sistema por meio da interface gráfica
+    - Complexo: 3 pontos de caso de uso
+------------------------------------------------------------------------------------------------------------------------
+todo: Sloc: Estima, com base na opnião de especialistas e no histórico de projetos passados, quantas linhas de codigo o projeto terá
+todo: KSlock: Uma unidade KSloc vale mil unidades SLOC.
+        Além disso, também são usados os termos MSloc para milhões de linhas e GSloc para bilhoes de linhas de códigos
+------------------------------------------------------------------------------------------------------------------------
+COCOMO
